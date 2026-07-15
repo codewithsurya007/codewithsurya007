@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Surya N</h1>
+<h1 align="center">Hi , I'm Surya N</h1>
 
 <h3 align="center">
 🚀 Python Full Stack Developer | Flutter App Developer | Building Scalable Web & Mobile Applications
