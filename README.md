@@ -80,11 +80,7 @@ AI-powered employee attendance system using facial recognition.
 
 ### Tech Stack
 
-`Python` `Flask` `OpenCV` `Face Recognition`
-`MySQL` `HTML`
-`CSS`
-`JavaScript`
-`Bootstrap`
+`Python` `Flask` `OpenCV` `Face Recognition` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
 
 ✨ Features
 
@@ -114,14 +110,9 @@ Applications Included
 
 ### Tech Stack
 
-`Flutter`
-`Dart`
-`Firebase`
-`REST API`
-`Laravel`
-`Android SDK`
+`Flutter` `Dart` `Firebase` `REST API` `Laravel` `Android SDK`
 
-Features
+### Features
 
 - Authentication
 - Push Notifications
@@ -138,9 +129,7 @@ Personal Portfolio showcasing projects, skills and experience.
 
 ### Tech Stack
 
-`HTML`
-`CSS`
-`JavaScript`
+`HTML` `CSS` `JavaScript`
 
 🔗 Live Demo
 
@@ -176,9 +165,9 @@ http://suryatechie.online/
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=codewithsurya007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsurya007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
@@ -188,7 +177,7 @@ http://suryatechie.online/
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=codewithsurya007&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -198,7 +187,7 @@ http://suryatechie.online/
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithsurya007&theme=tokyo-night"/>
 
 </p>
 
@@ -208,7 +197,7 @@ http://suryatechie.online/
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=codewithsurya007&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
@@ -261,7 +250,7 @@ http://suryatechie.online/
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=codewithsurya007&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
