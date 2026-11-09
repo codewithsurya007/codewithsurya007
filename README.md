@@ -1,4 +1,3 @@
-
 <!-- =========================================================
      SURYA N | GITHUB PROFILE README
      GitHub: codewithsurya007
@@ -290,6 +289,14 @@ I'm always interested in connecting with developers, collaborating on projects a
 
 **Learn → Build → Test → Improve → Deploy → Repeat**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:050816,50:132A55,100:2563EB" width="100%" alt="Footer Banner"/>
+<br/>
+
+<!-- Animated Footer Banner - Matching Top Banner Colors and Style -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:050816,45:132A55,100:2563EB&animation=fadeIn"
+  width="100%"
+  alt="Surya N Animated Footer Banner"
+/>
 
 </div>
