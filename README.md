@@ -5,13 +5,14 @@
 
 <div align="center">
 
+<!-- TOP ANIMATED BANNER -->
 <img src="https://raw.githubusercontent.com/codewithsurya007/codewithsurya007/main/assets/surya-n-animated-banner.gif" width="100%" alt="Surya N Animated Developer Banner"/>
 
 <br/>
 
 ### Hi there, I'm Surya N 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Flutter+Mobile+App+Developer;Django+%7C+Flask+%7C+REST+APIs;Building+Web+%26+Mobile+Experiences;Always+Learning+and+Building" alt="Animated Developer Introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Flutter+Mobile+App+Developer;Django+%7C+Flask+%7C+REST+APIs;Building+Web+%26+Mobile+Experiences;Always+Learning+and+Building" alt="Animated Developer Introduction"/>
 
 **Building practical, scalable web and mobile applications.**
 
@@ -32,7 +33,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=codewithsurya007&label=PROFILE%20VIEWS&color=2563eb&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=codewithsurya007&label=PROFILE%20VIEWS&color=00D9FF&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -291,12 +292,12 @@ I'm always interested in connecting with developers, collaborating on projects a
 
 <br/>
 
-<!-- Animated Footer Banner - Matching Top Banner Colors and Style -->
+<!-- BOTTOM BANNER: SAME IMAGE AS TOP BANNER -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:050816,45:132A55,100:2563EB&animation=fadeIn"
+  src="https://raw.githubusercontent.com/codewithsurya007/codewithsurya007/main/assets/surya-n-animated-banner.gif"
   width="100%"
-  alt="Surya N Animated Footer Banner"
+  alt="Surya N Matching Animated Footer Banner"
 />
 
 </div>
