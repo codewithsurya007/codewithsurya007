@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:132A55,100:2563EB&text=SURYA%20N&fontColor=FFFFFF&fontSize=62&fontAlignY=38&desc=Python%20Full%20Stack%20Developer%20%7C%20Flutter%20App%20Developer&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Surya N Developer Banner"/>
+<img src="https://raw.githubusercontent.com/codewithsurya007/codewithsurya007/main/assets/surya-n-animated-banner.gif" width="100%" alt="Surya N Animated Developer Banner"/>
 
 <br/>
 
@@ -152,7 +152,7 @@ A responsive personal portfolio website showcasing my skills, projects and profe
 
 **Live Website**
 
-👉 https://suryatechie.online/
+👉 [suryatechie.online](https://suryatechie.online/)
 
 ---
 
@@ -222,6 +222,26 @@ A responsive personal portfolio website showcasing my skills, projects and profe
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithsurya007&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=codewithsurya007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
@@ -259,11 +279,11 @@ I'm always interested in connecting with developers, collaborating on projects a
 **Let's build something amazing together! 🚀**
 
 <a href="https://www.linkedin.com/in/surya-surya-1822a5291">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:suryabca0@gmail.com">
-<img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
