@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Surya N</h1>
 
 <h3 align="center">
@@ -58,24 +59,19 @@
 
 # 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/surya-surya-1822a5291">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="http://suryatechie.online/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-<a href="mailto:suryabca0@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-<a href="https://github.com/codewithsurya007">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/surya-surya-1822a5291">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://suryatechie.online/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:suryabca0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/codewithsurya007">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
@@ -140,7 +136,7 @@ AI-powered employee attendance management system using facial recognition.
 
 ## 🍔 Multi-Platform Food Delivery Applications
 
-Developed multiple production-ready food delivery applications.
+Developed multiple food delivery and e-commerce applications.
 
 ### 📱 Applications
 
@@ -185,7 +181,7 @@ Personal portfolio website showcasing my projects, skills and professional exper
 
 ### 🔗 Live Demo
 
-👉 http://suryatechie.online/
+👉 https://suryatechie.online/
 
 ---
 
@@ -199,44 +195,32 @@ Personal portfolio website showcasing my projects, skills and professional exper
 
 ### Responsibilities
 
-✔ Developed full-stack web applications.
-
-✔ Built Flutter mobile applications.
-
-✔ Designed and integrated REST APIs.
-
-✔ Implemented Firebase services.
-
-✔ Worked with MySQL and SQLite databases.
-
-✔ Developed responsive user interfaces.
-
-✔ Integrated third-party APIs.
-
-✔ Debugged and optimized application performance.
-
-✔ Worked with Git and GitHub for version control.
-
-✔ Maintained and enhanced existing applications.
+- Developed full-stack web applications.
+- Built Flutter mobile applications.
+- Designed and integrated REST APIs.
+- Implemented Firebase services.
+- Worked with MySQL and SQLite databases.
+- Developed responsive user interfaces.
+- Integrated third-party APIs.
+- Debugged and optimized application performance.
+- Worked with Git and GitHub for version control.
+- Maintained and enhanced existing applications.
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img
-  height="170"
-  src="https://github-stats-extended.vercel.app/api?username=codewithsurya007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-  alt="Surya's GitHub Stats"
-/>
-
-<img
-  height="170"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=codewithsurya007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-  alt="Surya's Top Languages"
-/>
-
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=codewithsurya007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Surya's GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=codewithsurya007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Surya's Top Languages"
+  />
 </p>
 
 ---
@@ -244,12 +228,10 @@ Personal portfolio website showcasing my projects, skills and professional exper
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img
-  src="https://github-readme-streak-stats-eight.vercel.app/?user=codewithsurya007&theme=tokyonight&hide_border=true"
-  alt="Surya's GitHub Streak"
-/>
-
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=codewithsurya007&theme=tokyonight&hide_border=true"
+    alt="Surya's GitHub Streak"
+  />
 </p>
 
 ---
@@ -257,12 +239,11 @@ Personal portfolio website showcasing my projects, skills and professional exper
 # 📈 GitHub Contribution Graph
 
 <p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=codewithsurya007&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
-  alt="Surya's GitHub Activity Graph"
-/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=codewithsurya007&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+    width="100%"
+    alt="Surya's GitHub Activity Graph"
+  />
 </p>
 
 ---
@@ -270,44 +251,35 @@ Personal portfolio website showcasing my projects, skills and professional exper
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img
-  src="https://github-trophies.vercel.app/?username=codewithsurya007&theme=tokyonight&no-frame=true&margin-w=10"
-  alt="GitHub Trophies"
-/>
-
+  <img
+    src="https://github-trophies.vercel.app/?username=codewithsurya007&theme=tokyonight&no-frame=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 GitHub Contribution Snake
 
 <p align="center">
-
-<img
-  src="https://raw.githubusercontent.com/codewithsurya007/codewithsurya007/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-/>
-
+  <img
+    src="https://raw.githubusercontent.com/codewithsurya007/codewithsurya007/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Snake Animation"
+  />
 </p>
 
 ---
 
 # 🛠️ Currently Working On
 
-🚀 Flutter Mobile Applications
-
-🌐 Django Full Stack Development
-
-📱 REST API Integration
-
-🔥 Firebase Services
-
-⚙️ Application Performance Optimization
-
-🗄️ Database Optimization
-
-☁️ Cloud Deployment
+- 🚀 Flutter Mobile Applications
+- 🌐 Django Full Stack Development
+- 📱 REST API Integration
+- 🔥 Firebase Services
+- ⚙️ Application Performance Optimization
+- 🗄️ Database Optimization
+- ☁️ Cloud Deployment
 
 ---
 
@@ -338,14 +310,4 @@ Personal portfolio website showcasing my projects, skills and professional exper
 
 # 📌 Development Philosophy
 
-```text
-Learn → Build → Test → Improve → Deploy → Repeat
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/codewithsurya007/codewithsurya007/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
-</p>
-
+> Learn → Build → Test → Improve → Deploy → Repeat
