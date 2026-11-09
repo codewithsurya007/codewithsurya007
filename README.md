@@ -292,12 +292,27 @@ I'm always interested in connecting with developers, collaborating on projects a
 
 <br/>
 
-<!-- BOTTOM BANNER: SAME IMAGE AS TOP BANNER -->
+<!-- =====================================================
+     ANIMATED FOOTER
+     Matching the top banner's navy blue and cyan theme
+     File: assets/footer-banner.svg
+
+     Animation effects:
+     1. Animated cyan diagonal corner shapes
+     2. Moving horizontal neon light
+     3. Pulsating glowing center rings
+     4. Floating cyan particles
+     5. Animated bottom cyan glow
+====================================================== -->
+
+<div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/codewithsurya007/codewithsurya007/main/assets/surya-n-animated-banner.gif"
+  src="https://raw.githubusercontent.com/codewithsurya007/codewithsurya007/main/assets/footer-banner.svg"
   width="100%"
-  alt="Surya N Matching Animated Footer Banner"
+  alt="Surya N Animated Navy Blue and Cyan Footer"
 />
+
+</div>
 
 </div>
