@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1200"
+     height="180"
+     viewBox="0 0 1200 180">
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#06152D"/>
+      <stop offset="50%" stop-color="#0B2850"/>
+      <stop offset="100%" stop-color="#041226"/>
+    </linearGradient>
+
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="100%" stop-color="#008DFF"/>
+    </linearGradient>
+
+    <linearGradient id="light" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00F0FF"/>
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="180" fill="url(#background)"/>
+
+  <!-- Left animated cyan shape -->
+  <path d="M0 0 H150 L0 125 Z" fill="url(#cyan)">
+    <animate attributeName="opacity"
+             values="0.75;1;0.75"
+             dur="3s"
+             repeatCount="indefinite"/>
+  </path>
+
+  <!-- Right animated cyan shape -->
+  <path d="M1200 180 H1050 L1200 55 Z" fill="url(#cyan)">
+    <animate attributeName="opacity"
+             values="1;0.65;1"
+             dur="3s"
+             repeatCount="indefinite"/>
+  </path>
+
+  <!-- Background diagonal patterns -->
+  <path d="M220 0 L340 0 L180 180 L60 180 Z"
+        fill="#00D9FF" opacity="0.035"/>
+
+  <path d="M850 0 L970 0 L810 180 L690 180 Z"
+        fill="#00D9FF" opacity="0.035"/>
+
+  <!-- Animated glowing horizontal line -->
+  <rect x="0" y="143" width="300" height="3"
+        fill="url(#light)" filter="url(#glow)">
+    <animate attributeName="x"
+             values="-300;1200"
+             dur="4s"
+             repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Secondary light line -->
+  <path d="M0 165 H1200"
+        stroke="#00D9FF"
+        stroke-opacity="0.2"
+        stroke-width="1">
+    <animate attributeName="stroke-opacity"
+             values="0.08;0.5;0.08"
+             dur="3s"
+             repeatCount="indefinite"/>
+  </path>
+
+  <!-- Animated center rings -->
+  <circle cx="600" cy="85" r="45"
+          fill="none"
+          stroke="#00D9FF"
+          stroke-width="1"
+          opacity="0.3">
+    <animate attributeName="r"
+             values="35;75;35"
+             dur="4s"
+             repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+             values="0.4;0.05;0.4"
+             dur="4s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="600" cy="85" r="65"
+          fill="none"
+          stroke="#00D9FF"
+          stroke-width="1"
+          opacity="0.15">
+    <animate attributeName="r"
+             values="65;90;65"
+             dur="5s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Floating particles -->
+  <g fill="#00E5FF" filter="url(#glow)">
+
+    <circle cx="250" cy="100" r="3">
+      <animate attributeName="cy"
+               values="100;45;100"
+               dur="3s"
+               repeatCount="indefinite"/>
+      <animate attributeName="opacity"
+               values="0.2;1;0.2"
+               dur="3s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="420" cy="125" r="2">
+      <animate attributeName="cy"
+               values="125;65;125"
+               dur="4s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="780" cy="60" r="3">
+      <animate attributeName="cy"
+               values="60;130;60"
+               dur="3.5s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="950" cy="110" r="2">
+      <animate attributeName="cy"
+               values="110;50;110"
+               dur="4s"
+               repeatCount="indefinite"/>
+    </circle>
+
+  </g>
+
+  <!-- Animated bottom glow -->
+  <rect x="0" y="175" width="1200" height="5"
+        fill="url(#cyan)"
+        opacity="0.7">
+    <animate attributeName="opacity"
+             values="0.3;1;0.3"
+             dur="2s"
+             repeatCount="indefinite"/>
+  </rect>
+
+</svg>
