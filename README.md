@@ -1,313 +1,172 @@
+<!-- Surya N | GitHub Profile README -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Surya N</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:132A55,100:2563EB&text=SURYA%20N&fontColor=FFFFFF&fontSize=62&fontAlignY=38&desc=Python%20Full%20Stack%20Developer%20%7C%20Flutter%20App%20Developer&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Surya N developer banner" />
 
-<h3 align="center">
-🚀 Python Full Stack Developer | Flutter App Developer | Building Scalable Web & Mobile Applications
-</h3>
+### Hi there, I'm Surya N 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Python+Full+Stack+Developer;Flutter+App+Developer;Django+%7C+Flask+%7C+REST+API;Building+Modern+Web+%26+Mobile+Apps;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Flutter+Mobile+App+Developer;Django+%7C+Flask+%7C+REST+APIs;Building+Web+%26+Mobile+Experiences;Always+Learning+and+Building" alt="Animated developer introduction" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithsurya007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+**Building practical, scalable web and mobile applications.**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-surya-1822a5291)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://suryatechie.online/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryabca0@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithsurya007)
 
-# 👨‍💻 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=codewithsurya007&label=Profile%20Views&color=2563eb&style=flat-square)
 
-💻 Python Full Stack Developer with 1+ year of professional experience.
-
-📱 Flutter Mobile App Developer passionate about creating real-world applications.
-
-🌐 Experienced in developing responsive web applications using Django, Flask, HTML, CSS and JavaScript.
-
-🔥 Building scalable mobile applications using Flutter, Firebase and REST APIs.
-
-⚡ Strong knowledge of MySQL, SQLite, Firebase and MVC Architecture.
-
-🚀 Interested in developing scalable and production-ready applications.
-
-🌱 Currently improving my skills in:
-
-- Advanced Flutter
-- Django REST Framework
-- Cloud Deployment
-- Docker
-- AWS
-- System Design
-- Clean Architecture
+</div>
 
 ---
 
-# 💬 Ask Me About
+## 👨‍💻 About Me
 
-- Python
-- Django
-- Flask
-- Flutter
-- Dart
-- Firebase
-- REST API
-- MySQL
-- SQLite
-- Git & GitHub
-- Android Development
+I'm a **Python Full Stack Developer and Flutter App Developer** with **1+ year of professional experience**, building responsive websites, REST APIs, and cross-platform mobile applications.
 
----
+- 💼 **App & Web Developer** at **Bhuvi Tech Web Solutions** (2025–Present)
+- 🌐 Work with **Python, Django, Flask, HTML, CSS, JavaScript, PHP and Laravel**
+- 📱 Build mobile experiences with **Flutter, Dart, Firebase and REST APIs**
+- 🗄️ Use **MySQL and SQLite** for application data
+- 🎯 Focus on maintainable code, practical features, and user-friendly interfaces
+- 📍 Based in **Chennai, Tamil Nadu, India**
 
-# 🌐 Connect With Me
+## 🛠️ Languages & Tools
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/surya-surya-1822a5291">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://suryatechie.online/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:suryabca0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/codewithsurya007">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<div align="center">
 
----
+**Programming Languages**
 
-# 💻 Tech Stack
+<img src="https://skillicons.dev/icons?i=python,dart,java,kotlin,php&perline=8" alt="Python, Dart, Java, Kotlin, PHP" />
 
-## 👨‍💻 Programming Languages
+**Web Development**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,java,kotlin,php" alt="Programming Languages"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,django,flask,laravel&perline=8" alt="HTML, CSS, JavaScript, Bootstrap, Django, Flask, Laravel" />
 
-## 🌐 Web Development
+**Mobile & Backend Services**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,django,flask,php,laravel" alt="Web Technologies"/>
-</p>
+<img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio&perline=8" alt="Flutter, Firebase, Android Studio" />
 
-## 📱 Mobile Development
+**Databases & Developer Tools**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio" alt="Mobile Development"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,postman&perline=8" alt="MySQL, SQLite, Git, GitHub, VS Code, Postman" />
 
-## 🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" alt="Databases"/>
-</p>
-
-## 🛠️ Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker,aws" alt="Tools"/>
-</p>
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🤖 AI Face Recognition Staff Attendance System
+### 🤖 AI Face Recognition Staff Attendance System
 
-AI-powered employee attendance management system using facial recognition.
+A staff attendance management application using facial recognition, with an administrative dashboard and attendance reporting.
 
-### 🛠️ Tech Stack
+**Stack:** `Python` `Flask` `OpenCV` `face_recognition` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
 
-`Python` `Flask` `OpenCV` `Face Recognition` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
+**Highlights:** Live face-based attendance scanning · Staff management · Manual attendance · Daily records · Reports · Authentication
 
-### ✨ Features
+### 🍔 Multi-Platform Commerce & Delivery Applications
 
-- 👤 Face Recognition
-- 📸 Live Attendance Scanning
-- 📊 Admin Dashboard
-- 📅 Daily Attendance
-- 📑 Attendance Reports
-- ✏️ Manual Attendance
-- 👨‍💼 Staff Management
-- 🔐 Authentication
-- 📈 Attendance Tracking
+Worked on Flutter-based applications for customer ordering, vendor operations, and delivery workflows.
 
----
+| Application | Focus |
+| :--- | :--- |
+| **SoniyaMart** | Multi-category shopping and ordering |
+| **DRS Mart** | Commerce and order management |
+| **DoorDrop** | Delivery workflows |
+| **OrderOK** | Food ordering and delivery |
 
-## 🍔 Multi-Platform Food Delivery Applications
+**Modules:** Customer app · Vendor app · Delivery partner app · Admin panel
 
-Developed multiple food delivery and e-commerce applications.
+**Stack:** `Flutter` `Dart` `Firebase` `REST APIs` `Laravel` `PHP` `Android SDK`
 
-### 📱 Applications
+**Features:** Authentication · Product and vendor management · Order processing · Push notifications · Delivery tracking · Payment integrations
 
-- 🛒 SoniyaMart
-- 🛍️ DRS Mart
-- 🚚 DoorDrop
-- 🍔 OrderOK
+### 🌐 Personal Portfolio Website
 
-### 👥 Application Modules
+A responsive personal website showcasing my skills, projects, and professional experience.
 
-- Customer App
-- Vendor App
-- Delivery Partner App
-- Admin Panel
-
-### 🛠️ Tech Stack
-
-`Flutter` `Dart` `Firebase` `REST API` `Laravel` `PHP` `Android SDK`
-
-### ✨ Features
-
-- 🔐 User Authentication
-- 🔥 Firebase Integration
-- 📲 Push Notifications
-- 🛒 Product Management
-- 🏪 Vendor Management
-- 📦 Order Management
-- 🚚 Delivery Workflow
-- 📍 Live Order Tracking
-- 💳 Payment Integration
-- 📊 Admin Dashboard
+**Stack:** `HTML` `CSS` `JavaScript`  
+**Live website:** [suryatechie.online](https://suryatechie.online/)
 
 ---
 
-## 🌐 Portfolio Website
+## 💼 Professional Experience
 
-Personal portfolio website showcasing my projects, skills and professional experience.
+**App & Web Developer — Bhuvi Tech Web Solutions**  
+*2025 – Present*
 
-### 🛠️ Tech Stack
-
-`HTML` `CSS` `JavaScript`
-
-### 🔗 Live Demo
-
-👉 https://suryatechie.online/
+- Develop and maintain responsive full-stack web applications and Flutter mobile apps.
+- Integrate REST APIs, Firebase services, and third-party platforms.
+- Work with MySQL and SQLite databases.
+- Debug application issues, optimize performance, and collaborate using Git and GitHub.
 
 ---
 
-# 🏢 Professional Experience
+## 🔭 Currently Working On
 
-## 💼 App & Web Developer
+- 📱 Flutter mobile applications and cross-platform experiences
+- 🌐 Django and Flask full-stack web development
+- 🔌 REST API integration and Firebase services
+- ⚙️ Application performance and database improvements
 
-### Bhuvi Tech Web Solutions
+## 🌱 Currently Learning
 
-📅 **2025 - Present**
-
-### Responsibilities
-
-- Developed full-stack web applications.
-- Built Flutter mobile applications.
-- Designed and integrated REST APIs.
-- Implemented Firebase services.
-- Worked with MySQL and SQLite databases.
-- Developed responsive user interfaces.
-- Integrated third-party APIs.
-- Debugged and optimized application performance.
-- Worked with Git and GitHub for version control.
-- Maintained and enhanced existing applications.
+`Django REST Framework` · `Advanced Flutter` · `Docker` · `AWS` · `Cloud Deployment` · `System Design` · `Clean Architecture`
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api?username=codewithsurya007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Surya's GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=codewithsurya007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Surya's Top Languages"
-  />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=codewithsurya007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="Surya's GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsurya007&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Surya's most used GitHub repository languages" />
 
-# 🔥 GitHub Streak
+<img src="https://streak-stats.demolab.com?user=codewithsurya007&theme=tokyonight&hide_border=true" alt="Surya's GitHub contribution streak" />
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=codewithsurya007&theme=tokyonight&hide_border=true"
-    alt="Surya's GitHub Streak"
-  />
-</p>
+</div>
 
----
+> GitHub stats reflect publicly accessible GitHub activity and repositories; they are not a complete measure of professional development work. External image services may occasionally be unavailable.
 
-# 📈 GitHub Contribution Graph
+## 📈 Contribution Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=codewithsurya007&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
-    width="100%"
-    alt="Surya's GitHub Activity Graph"
-  />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithsurya007&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Surya's GitHub activity graph" />
 
-# 🏆 GitHub Trophies
+</div>
 
-<p align="center">
-  <img
-    src="https://github-trophies.vercel.app/?username=codewithsurya007&theme=tokyonight&no-frame=true&margin-w=10"
-    alt="GitHub Trophies"
-  />
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=codewithsurya007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="Surya's GitHub trophies" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithsurya007/codewithsurya007/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithsurya007/codewithsurya007/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/codewithsurya007/codewithsurya007/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake" />
+</picture>
+
+</div>
 
 ---
 
-# 🐍 GitHub Contribution Snake
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/codewithsurya007/codewithsurya007/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-    alt="GitHub Contribution Snake Animation"
-  />
-</p>
+### 💬 Let's Connect
 
----
+Open to conversations about **Python, Django, Flutter, Firebase, web development, and mobile apps**.
 
-# 🛠️ Currently Working On
+*Learn → Build → Test → Improve → Deploy → Repeat*
 
-- 🚀 Flutter Mobile Applications
-- 🌐 Django Full Stack Development
-- 📱 REST API Integration
-- 🔥 Firebase Services
-- ⚙️ Application Performance Optimization
-- 🗄️ Database Optimization
-- ☁️ Cloud Deployment
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:050816,50:132A55,100:2563EB" width="100%" alt="Footer decoration" />
 
----
-
-# 📚 Currently Learning
-
-- Django REST Framework
-- Advanced Flutter
-- Docker
-- AWS
-- System Design
-- Clean Architecture
-- Cloud Technologies
-- Scalable Application Architecture
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Build Enterprise-Level Applications
-- ✅ Master Django & Flutter
-- ✅ Learn Cloud Technologies
-- ✅ Improve System Design Skills
-- ✅ Contribute to Open Source
-- ✅ Build Scalable Applications
-- ✅ Grow as a Full Stack Developer
-
----
-
-# 📌 Development Philosophy
-
-> Learn → Build → Test → Improve → Deploy → Repeat
+</div>
