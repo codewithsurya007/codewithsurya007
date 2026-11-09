@@ -340,3 +340,12 @@ Personal portfolio website showcasing my projects, skills and professional exper
 
 ```text
 Learn → Build → Test → Improve → Deploy → Repeat
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codewithsurya007/codewithsurya007/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
+</p>
+
